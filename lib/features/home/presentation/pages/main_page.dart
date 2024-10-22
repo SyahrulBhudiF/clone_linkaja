@@ -23,7 +23,7 @@ class _MainPageState extends State<MainPage> {
     const HistoryPage(),
     const PayPage(),
     const InboxPage(),
-    const AccountPage(),
+    const AccountPages(),
   ];
 
   @override

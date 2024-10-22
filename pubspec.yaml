@@ -39,6 +39,7 @@ dependencies:
   provider: ^6.1.2
   font_awesome_flutter: ^10.7.0
   smooth_page_indicator: ^1.2.0+3
+  another_flutter_splash_screen: ^1.2.1
 
 dev_dependencies:
   flutter_test:

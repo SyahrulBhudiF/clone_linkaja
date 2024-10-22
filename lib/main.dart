@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp.router(
       title: 'LinkAja Clone',
       theme: AppTheme.lightTheme,
-      routerConfig: AppRouter.router,
+      routerConfig: AppRouter.router, // Use the modified router
     );
   }
 }
